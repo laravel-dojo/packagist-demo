@@ -1,6 +1,8 @@
 build
-composer.lock
 vendor
+.idea
+
+composer.lock
 phpcs.xml
 phpunit.xml
 .phpunit.result.cache
